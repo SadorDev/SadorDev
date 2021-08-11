@@ -1,4 +1,4 @@
-![Header](header.png)
+![Header](banner.png)
 
 I'm a Full Stack Development Student @ Code Institute.
 
