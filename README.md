@@ -17,4 +17,4 @@ I'm a Full Stack Development Student @ Code Institute.
  | CSS3 | JavaScript | Python | jQuery | mongoDB | django
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IzzySoprano)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
