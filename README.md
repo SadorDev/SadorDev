@@ -10,7 +10,7 @@ I really would like to develop my <img alt="JavaScript" width="26px" src="https:
 
 ## **Hobbies** 
 
-| <img width="150" height="150" alt="boxing" src=Boxing.gif /> | <img alt="coding" width="150" height="150" src=coding.gif /> | <img width="150" height="150" alt="calisthenics" src=Pull_Ups.gif />
+| <img width="250px" height="150" alt="boxing" src=Boxing.gif /> | <img alt="coding" width="250px" height="150" src=coding.gif /> | <img width="250px" height="150" alt="calisthenics" src=Pull_Ups.gif />
 | :---: | :---: | :---: |
 | <b>Boxing</b> | <b>Programming</b> | <b>Calisthenics</b> |
 
@@ -39,4 +39,4 @@ I really would like to develop my <img alt="JavaScript" width="26px" src="https:
 
 # Contact
 
-[Linked In](https://www.linkedin.com/in/sador-zerezghi/) | ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[Linked In](https://www.linkedin.com/in/sador-zerezghi/) | <br> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
