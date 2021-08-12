@@ -6,7 +6,7 @@ I'm a Full Stack Development Student @ Code Institute, currently doing my third 
 
 I really would like to develop my <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> skills, as its my favourite programming language. Currently taking several <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> courses on ![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white) and reading several books📚📚📚 to help with my understanding of the language
 
-# **Interests** 
+# **Interests** 😄
 | <img width="150px" height="150px" alt="boxing" src=Boxing.gif /> | <img alt="coding" width="150px" height="150px" src=coding.gif /> | <img width="150px" height="150px" alt="calisthenics" src=Pull_Ups.gif />
 | :---: | :---: | :---: |
 | <b>Boxing</b> | <b>Programming</b> | <b>Calisthenics</b> |
