@@ -21,7 +21,7 @@ I really would like to develop my <img alt="JavaScript" width="26px" src="https:
     | :---: | :---: | :---: |
     | <b>Breaking Bad</b> | <b>The Sopranos</b> | <b>Narcos</b> | 
 
-    <img align="center" alt="Akuma Ultra" src=AkumaUltra.gif />
+    <img align="center" alt="Akuma Ultra" width="500" src=AkumaUltra.gif />
 
 # 🧰 **TechStack** 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,7 +35,7 @@ I really would like to develop my <img alt="JavaScript" width="26px" src="https:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Sador's GitHub stats]((https://github-readme-stats.vercel.app/api?username=IzzySoprano&show_icons=true&theme=highcontrast)
+![Sador's GitHub stats](https://github-readme-stats.vercel.app/api?username=IzzySoprano&show_icons=true&theme=highcontrast)
 
 # Contact
 
