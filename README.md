@@ -14,14 +14,14 @@ I really would like to develop my <img alt="JavaScript" width="26px" src="https:
 | :---: | :---: | :---: |
 | <b>Boxing</b> | <b>Programming</b> | <b>Calisthenics</b> |
 
--   In my spare time, I take part in amateur pedigree boxing, Brazilian Jiu Jitsu and Muay Thai at my local MMA gym 🥊🥊🥊🤼🤼🤼
--   Some of my all time favorite TV Shows📺📺📺
+-   **In my spare time, I take part in amateur pedigree boxing, Brazilian Jiu Jitsu and Muay Thai at my local MMA gym 🥊🥊🥊🤼🤼🤼**
+-   **Some of my all time favorite TV Shows📺📺📺**
 
-    | <img src=breakingbad-intro.gif width="150px" height="150px"> | <img src=Sopranos-Title.jpg width="150px" height="150px"> | <img src=Narcos.jpg width="150px" height="150px"> | 
+    | <img src=breakingbad-intro.gif width="200px" height="150px"> | <img src=Sopranos-Title.jpg width="200px" height="150px"> | <img src=Narcos.jpg width="200px" height="150px"> | 
     | :---: | :---: | :---: |
     | <b>Breaking Bad</b> | <b>The Sopranos</b> | <b>Narcos</b> | 
 
-    <img align="center" alt="Akuma Ultra" width="700px" src=AkumaUltra.gif />
+    <!-- <img align="center" alt="Akuma Ultra" width="700px" src=AkumaUltra.gif /> -->
 
 # 🧰 **TechStack** 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
