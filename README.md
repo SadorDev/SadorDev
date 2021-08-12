@@ -21,7 +21,7 @@ I really would like to develop my <img alt="JavaScript" width="26px" src="https:
     | :---: | :---: | :---: |
     | <b>Breaking Bad</b> | <b>The Sopranos</b> | <b>Narcos</b> | 
 
-    <img align="center" alt="Akuma Ultra" width="300" height="300" src=AkumaUltra.gif />
+    <img align="center" alt="Akuma Ultra" src=AkumaUltra.gif />
 
 # 🧰 **TechStack** 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
