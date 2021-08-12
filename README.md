@@ -1,6 +1,6 @@
 ![Header](banner.png)
 
-# 🧑🏾 About Me  <img align="right" alt="Akuma" width="300" height="300" src=Akuma.gif />
+# 🧑🏾 About Me  <img align="right" alt="Akuma" width="200" height="200" src=Akuma.gif />
 
 I'm a Full Stack Development Student @ Code Institute, currently doing my third milestone project. I have completed two projects so far and look to keep growing my portfolio😀😀😀
 
