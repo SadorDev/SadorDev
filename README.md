@@ -10,14 +10,14 @@ I really would like to develop my <img alt="JavaScript" width="26px" src="https:
 
 ## **Hobbies** 
 
-| <img width="250px" height="150" alt="boxing" src=Boxing.gif /> | <img alt="coding" width="250px" height="150" src=coding.gif /> | <img width="250px" height="150" alt="calisthenics" src=Pull_Ups.gif />
+| <img width="150px" height="150px" alt="boxing" src=Boxing.gif /> | <img alt="coding" width="150px" height="150px" src=coding.gif /> | <img width="150px" height="150px" alt="calisthenics" src=Pull_Ups.gif />
 | :---: | :---: | :---: |
 | <b>Boxing</b> | <b>Programming</b> | <b>Calisthenics</b> |
 
 -   In my spare time, I take part in amateur pedigree boxing, Brazilian Jiu Jitsu and Muay Thai at my local MMA gym 🥊🥊🥊🤼🤼🤼
 -   Some of my all time favorite TV Shows📺📺📺
 
-    | <img src=breakingbad-intro.gif width="100" height="100"> | <img src=Sopranos-Title.jpg width="100" height="100"> | <img src=Narcos.jpg width="100" height="100"> | 
+    | <img src=breakingbad-intro.gif width="150px" height="150px"> | <img src=Sopranos-Title.jpg width="150px" height="150px"> | <img src=Narcos.jpg width="150px" height="150px"> | 
     | :---: | :---: | :---: |
     | <b>Breaking Bad</b> | <b>The Sopranos</b> | <b>Narcos</b> | 
 
