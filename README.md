@@ -1,6 +1,6 @@
 ![Header](banner.png)
 
-# 🧑🏾 About Me  <img align="right" alt="Akuma" width="100" height="100" src=Akuma.gif />
+# 🧑🏾 About Me  <img align="right" alt="Akuma" width="300" height="300" src=Akuma.gif />
 
 I'm a Full Stack Development Student @ Code Institute, currently doing my third milestone project. I have completed two projects so far and look to keep growing my portfolio😀😀😀
 
@@ -8,22 +8,20 @@ I really would like to develop my <img alt="JavaScript" width="26px" src="https:
 
  currently taking several <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> courses on ![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white) and reading several books📚📚📚 to help with my understanding of the language
 
-#### **Hobbies** 
+## **Hobbies** 
 
 | <img width="150" height="150" alt="boxing" src=Boxing.gif /> | <img alt="coding" width="150" height="150" src=coding.gif /> | <img width="150" height="150" alt="calisthenics" src=Pull_Ups.gif />
 | :---: | :---: | :---: |
 | <b>Boxing</b> | <b>Programming</b> | <b>Calisthenics</b> |
 
 -   In my spare time, I take part in amateur pedigree boxing, Brazilian Jiu Jitsu and Muay Thai at my local MMA gym 🥊🥊🥊🤼🤼🤼
--   I also play games such as connect 4🔴🟡 and chess♞♛
+-   Some of my all time favorite TV Shows📺📺📺
 
--   Some of my all time favorite TV Shows📺📺📺: 
-
-    | <img src=breakingbad-intro.gif width="200" height="200"> | <img src=Sopranos-Title.jpg width="200" height="200"> | <img src=Narcos.jpg width="200" height="200"> | 
+    | <img src=breakingbad-intro.gif width="100" height="100"> | <img src=Sopranos-Title.jpg width="100" height="100"> | <img src=Narcos.jpg width="100" height="100"> | 
     | :---: | :---: | :---: |
     | <b>Breaking Bad</b> | <b>The Sopranos</b> | <b>Narcos</b> | 
 
-    <img align="right" alt="Akuma Ultra" width="100" height="100" src=AkumaUltra.gif />
+    <img align="center" alt="Akuma Ultra" width="300" height="300" src=AkumaUltra.gif />
 
 # 🧰 **TechStack** 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,7 +35,7 @@ I really would like to develop my <img alt="JavaScript" width="26px" src="https:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Sador's GitHub stats]((https://github-readme-stats.vercel.app/api?username=IzzySoprano&show_icons=true&theme=highcontrast)<img align="right" src="https://github.com/Amchuz/Amchuz/blob/master/mess.gif" width="300" height="255">)
+![Sador's GitHub stats]((https://github-readme-stats.vercel.app/api?username=IzzySoprano&show_icons=true&theme=highcontrast)
 
 # Contact
 
