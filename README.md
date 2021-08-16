@@ -6,20 +6,6 @@ I'm a Full Stack Development Student @ Code Institute, currently doing my third 
 
 I really would like to develop my <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> skills, as its my favourite programming language. 
 
-# **Interests** 😄
-| <img width="150px" height="150px" alt="boxing" src=Boxing.gif /> | <img alt="coding" width="150px" height="150px" src=coding.gif /> | <img width="150px" height="150px" alt="calisthenics" src=Pull_Ups.gif />
-| :---: | :---: | :---: |
-| <b>Boxing</b> | <b>Programming</b> | <b>Calisthenics</b> |
-
-# **Favourite TV Shows📺📺📺**
-| <img src=breakingbad-intro.gif width="200px" height="150px"> | <img src=Sopranos-Title.jpg width="200px" height="150px"> | <img src=Narcos.jpg width="200px" height="150px"> | 
-| :---: | :---: | :---: |
-| <b>Breaking Bad</b> | <b>The Sopranos</b> | <b>Narcos</b> | 
-
-<br>
-
-<img align="center" alt="Akuma Ultra" width="700px" src=AkumaUltra.gif />
-
 # 🧰 **TechStack** 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,3 +23,17 @@ I really would like to develop my <img alt="JavaScript" width="26px" src="https:
 # Contact
 
 # [Linked In](https://www.linkedin.com/in/sador-zerezghi/) <br> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+# **Interests** 😄
+| <img width="150px" height="150px" alt="boxing" src=Boxing.gif /> | <img alt="coding" width="150px" height="150px" src=coding.gif /> | <img width="150px" height="150px" alt="calisthenics" src=Pull_Ups.gif />
+| :---: | :---: | :---: |
+| <b>Boxing</b> | <b>Programming</b> | <b>Calisthenics</b> |
+
+# **Favourite TV Shows📺📺📺**
+| <img src=breakingbad-intro.gif width="200px" height="150px"> | <img src=Sopranos-Title.jpg width="200px" height="150px"> | <img src=Narcos.jpg width="200px" height="150px"> | 
+| :---: | :---: | :---: |
+| <b>Breaking Bad</b> | <b>The Sopranos</b> | <b>Narcos</b> | 
+
+<br>
+
+<img align="center" alt="Akuma Ultra" width="700px" src=AkumaUltra.gif />
