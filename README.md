@@ -1,8 +1,7 @@
 ![Header](banner.png)
 
-  
  # About Me 🧑🏾
- <img align="right" alt="Akuma" width="150px" height="150px" src=Akuma.gif />
+ <img align="right" alt="Akuma" width="200px" height="200px" src=Akuma.gif />
  <img align="left" alt="Mewtwo" width="150px" height="150px" src=Mewtwo.gif />  
 
 I'm a Full Stack Development Student @ Code Institute, currently doing my third milestone project. I have completed two projects so far and look to keep growing my portfolio😀😀😀
@@ -21,15 +20,14 @@ I really would like to develop my <img alt="JavaScript" width="26px" src="https:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img width="500px" height="500px" alt="Black Panther" src=black-panther.png />
 
 ![Sador's GitHub stats](https://github-readme-stats.vercel.app/api?username=IzzySoprano&show_icons=true&theme=highcontrast)
 
 # Contact
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/sador-zerezghi/)
 
 # **Interests** 😄
+<img width="350px" height="350px" alt="Black Panther" src=black-panther.png />
 | <img width="150px" height="150px" alt="boxing" src=Boxing.gif /> | <img alt="coding" width="150px" height="150px" src=coding.gif /> | <img width="150px" height="150px" alt="calisthenics" src=Pull_Ups.gif />
 | :---: | :---: | :---: |
 | <b>Boxing</b> | <b>Programming</b> | <b>Calisthenics</b> |
