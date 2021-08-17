@@ -22,12 +22,12 @@
 
 
 ![Sador's GitHub stats](https://github-readme-stats.vercel.app/api?username=IzzySoprano&show_icons=true&theme=highcontrast)
- <img align="right" alt="Mewtwo" width="250px" height="250px" src=Mewtwo.gif />  
+ <img align="right" width="250" height="250" alt="Black Panther" src=black-panther.png />
 
 # Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/sador-zerezghi/)
 
-# **Interests** 😄 <img align="right" width="150" height="150" alt="Black Panther" src=black-panther.png />
+# **Interests** 😄
 | <img width="150px" height="150px" alt="boxing" src=Boxing.gif /> | <img alt="coding" width="150px" height="150px" src=coding.gif /> | <img width="150px" height="150px" alt="calisthenics" src=Pull_Ups.gif />
 | :---: | :---: | :---: |
 | <b>Boxing</b> | <b>Programming</b> | <b>Calisthenics</b> |
