@@ -29,7 +29,7 @@
 
 # **Interests** 😄
 | <img width="150px" height="150px" alt="boxing" src=Boxing.gif /> | <img alt="coding" width="150px" height="150px" src=coding.gif /> | <img width="150px" height="150px" alt="calisthenics" src=Pull_Ups.gif /> | <img width="150px" height="150px" alt="novae-rog" src=novae-rog.gif />
-| :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | <b>Boxing</b> | <b>Programming</b> | <b>Calisthenics</b> | <b>Anime</b> |
 
 # **Favourite TV Shows📺📺📺**
