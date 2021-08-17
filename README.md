@@ -21,7 +21,7 @@ I really would like to develop my <img alt="JavaScript" width="26px" src="https:
 
 
 ![Sador's GitHub stats](https://github-readme-stats.vercel.app/api?username=IzzySoprano&show_icons=true&theme=highcontrast)
- <img align="right" alt="Mewtwo" width="150px" height="150px" src=Mewtwo.gif />  
+ <img align="right" alt="Mewtwo" width="250px" height="250px" src=Mewtwo.gif />  
 
 # Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/sador-zerezghi/)
