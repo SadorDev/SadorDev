@@ -26,7 +26,7 @@ I really would like to develop my <img alt="JavaScript" width="26px" src="https:
 # Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/sador-zerezghi/)
 
-# **Interests** 😄 <img align="right" width="200px" height="200px" alt="Black Panther" src=black-panther.png />
+# **Interests** 😄 <img align="right" width="400px" height="400px" alt="Black Panther" src=black-panther.png />
 | <img width="150px" height="150px" alt="boxing" src=Boxing.gif /> | <img alt="coding" width="150px" height="150px" src=coding.gif /> | <img width="150px" height="150px" alt="calisthenics" src=Pull_Ups.gif />
 | :---: | :---: | :---: |
 | <b>Boxing</b> | <b>Programming</b> | <b>Calisthenics</b> |
