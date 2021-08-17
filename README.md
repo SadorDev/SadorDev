@@ -28,9 +28,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/sador-zerezghi/)
 
 # **Interests** 😄
-| <img width="150px" height="150px" alt="boxing" src=Boxing.gif /> | <img alt="coding" width="150px" height="150px" src=coding.gif /> | <img width="150px" height="150px" alt="calisthenics" src=Pull_Ups.gif />
+| <img width="150px" height="150px" alt="boxing" src=Boxing.gif /> | <img alt="coding" width="150px" height="150px" src=coding.gif /> | <img width="150px" height="150px" alt="calisthenics" src=Pull_Ups.gif /> | <img width="150px" height="150px" alt="novae-rog" src=novae-rog.gif />
 | :---: | :---: | :---: |
-| <b>Boxing</b> | <b>Programming</b> | <b>Calisthenics</b> |
+| <b>Boxing</b> | <b>Programming</b> | <b>Calisthenics</b> | <b>Anime</b> |
 
 # **Favourite TV Shows📺📺📺**
 | <img src=breakingbad-intro.gif width="150px" height="150px"> | <img src=Sopranos-Title.jpg width="150px" height="150px"> | <img src=Narcos.jpg width="150px" height="150px"> | 
