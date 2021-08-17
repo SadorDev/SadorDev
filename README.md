@@ -1,6 +1,6 @@
 ![Header](banner.png)
 
-# 🧑🏾 About Me  <img align="right" alt="Akuma" width="280" height="280" src=Akuma.gif />
+ <img align="right" alt="Mewtwo" width="280" height="280" src=Mewtwo.gif /># 🧑🏾 About Me  <img align="right" alt="Akuma" width="280" height="280" src=Akuma.gif />
 
 I'm a Full Stack Development Student @ Code Institute, currently doing my third milestone project. I have completed two projects so far and look to keep growing my portfolio😀😀😀
 
@@ -17,6 +17,8 @@ I really would like to develop my <img alt="JavaScript" width="26px" src="https:
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Spiderman](spiderman.png)
 
 ![Sador's GitHub stats](https://github-readme-stats.vercel.app/api?username=IzzySoprano&show_icons=true&theme=highcontrast)
 
