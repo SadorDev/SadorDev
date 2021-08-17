@@ -3,9 +3,10 @@
  # About Me 🧑🏾
  <img align="right" alt="Akuma" width="250" height="300px" src=Akuma.gif />
 
-I'm a Full Stack Development Student @ Code Institute, currently doing my third milestone project. I have completed two projects so far and look to keep growing my portfolio😀😀😀
+- 👨🏾‍🎓 Full Stack Development Student @ Code Institute
 
-I really would like to develop my <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> skills, as its my favourite programming language. 
+- ⚡ Currently focusing on learning <img alt="JavaScript" width="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
 
 # 🧰 **TechStack** 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
