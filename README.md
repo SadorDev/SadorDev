@@ -5,7 +5,7 @@
 
 - 👨🏾‍🎓 Full Stack Development Student @ Code Institute
 
-- ⚡ Currently focusing on learning <img alt="JavaScript" width="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+- ⚡ Currently focusing on learning <img alt="JavaScript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 
 # 🧰 **TechStack** 💻
