@@ -24,9 +24,7 @@
 ![Sador's GitHub stats](https://github-readme-stats.vercel.app/api?username=IzzySoprano&show_icons=true&theme=highcontrast)
  <img align="right" width="250" height="250" alt="Black Panther" src=Black-panther.png />
 
-# Contact
-` <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="sador-zerezghi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/sador-zerezghi?trk=profile-badge">Sador Zerezghi</a></div> `
-              
+# Contact            
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/sador-zerezghi/)
 
 # **Interests** 😄
