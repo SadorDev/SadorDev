@@ -35,7 +35,7 @@
 # **Favourite TV Shows📺📺📺**
 | <img src=breakingbad-intro.gif width="150px" height="150px"> | <img src=Sopranos-Title.jpg width="150px" height="150px"> | <img src=Narcos.jpg width="150px" height="150px"> | <img src="Black mirror.gif" width="150px" height="150px" >
 | :---: | :---: | :---: |
-| <b>Breaking Bad</b> | <b>The Sopranos</b> | <b>Narcos</b> | <b>Black Mirror</b> 
+| <b>Breaking Bad</b> | <b>The Sopranos</b> | <b>Narcos</b> | <b>Black Mirror</b> |
 
 <br>
 
