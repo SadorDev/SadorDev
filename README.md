@@ -20,9 +20,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
 ![Sador's GitHub stats](https://github-readme-stats.vercel.app/api?username=IzzySoprano&show_icons=true&theme=highcontrast)
- <img align="right" width="250" height="250" alt="Black Panther" src=Black-panther.png />
+ <img align="right" width="250" height="250" alt="MewTwo" src="Mewtwo.gif" />
 
 # Contact            
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/sador-zerezghi/)
@@ -33,9 +32,10 @@
 | <b>Boxing</b> | <b>Programming</b> | <b>Calisthenics</b> | <b>Anime</b> |
 
 # **Favourite TV Shows📺📺📺**
-| <img src=breakingbad-intro.gif width="150px" height="100px"> | <img src=Sopranos-Title.jpg width="150px" height="100px"> | <img src=Narcos.jpg width="150px" height="100px"> | <img src="Black mirror.gif" width="150px" height="100px"> |
+| <img src=breakingbad-intro.gif width="150px" height="150px"> | <img src=Sopranos-Title.jpg width="150px" height="150px"> | <img src=Narcos.jpg width="150px" height="150px"> | <img src="Black mirror.gif" width="150px" height="150px"> |
 | :---: | :---: | :---: | :---: |
 | <b>Breaking Bad</b> | <b>The Sopranos</b> | <b>Narcos</b> | <b>Black Mirror</b> |
 
+ <img align="left" alt="Akuma Ultra" width="500px" src="AkumaUltra.gif" />
+ <img align="right" alt="Black Panther" width="500px" src="Black-panther.png" />
 
-<!-- <img align="center" alt="Akuma Ultra" width="700px" src=AkumaUltra.gif /> -->
