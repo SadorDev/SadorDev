@@ -37,5 +37,5 @@
 | <b>Breaking Bad</b> | <b>The Sopranos</b> | <b>Narcos</b> | <b>Black Mirror</b> |
 
  <img align="left" alt="Akuma Ultra" width="500px" src="AkumaUltra.gif" />
- <img align="right" alt="Black Panther" width="500px" src="Black-panther.png" />
+ <img align="right" alt="Black Panther" width="150px" src="Black-panther.png" />
 
