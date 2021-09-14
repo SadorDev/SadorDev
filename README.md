@@ -33,7 +33,7 @@
 | <b>Boxing</b> | <b>Programming</b> | <b>Calisthenics</b> | <b>Anime</b> |
 
 # **Favourite TV Shows📺📺📺**
-| <img src=breakingbad-intro.gif width="100px" height="100px"> | <img src=Sopranos-Title.jpg width="100px" height="100px"> | <img src=Narcos.jpg width="100px" height="100px"> | <img src="Black mirror.gif" width="100px" height="100px" >
+| <img src=breakingbad-intro.gif width="150px" height="150px"> | <img src=Sopranos-Title.jpg width="150px" height="150px"> | <img src=Narcos.jpg width="150px" height="150px"> | <img src="Black mirror.gif" width="150px" height="150px" >
 | :---: | :---: | :---: |
 | <b>Breaking Bad</b> | <b>The Sopranos</b> | <b>Narcos</b> | <b>Black Mirror</b> 
 
