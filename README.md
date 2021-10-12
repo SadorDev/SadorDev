@@ -17,7 +17,7 @@
 
 <!-- Frameworks, Platforms & Libaries -->
 <img src="react-1.svg" height="50" ><img src="nodejs.svg" height="50" >
-<img src="flask.svg" height="50" ><img src="express.svg" height="50" ><img src="bootstrap.svg" height="50" >
+<img src="flask (1).svg" height="50" ><img src="express-109 (1).svg" height="50" ><img src="bootstrap.svg" height="50" >
 
 <!-- Databases -->
 <img src="mongo-db.svg" height="50" > <img src="mysql.svg" height="50" > 
