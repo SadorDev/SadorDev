@@ -12,7 +12,7 @@
 
 # 🧰 **TechStack** 💻
 
-<img src="js-brands.svg" width="250" height="250">
+<img src="js-brands.svg" width="250" height="250" class="filter-green" >
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
