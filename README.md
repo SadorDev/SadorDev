@@ -13,7 +13,7 @@
 # 🧰 **TechStack** 💻
 
 <!-- Languages -->
-<img src="html.svg" height="50" > <img src="css.svg" height="50" > <img src="js-brands.svg" height="50" > <img src="python-brands.svg" height="50" > 
+<img src="html.svg" height="50" > <img src="css.svg" height="50" > <img src="js.svg" height="50" > <img src="python.svg" height="50" > 
 
 <!-- Frameworks, Platforms & Libaries -->
 <img src="react.svg" height="50" ><img src="nodejs.svg" height="50" ><img src="python.svg" height="50" >
