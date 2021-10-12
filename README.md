@@ -14,6 +14,11 @@
 
 <img src="js-brands.svg" width="150" height="150" > 
 <img src="react-brands (1).svg" width="150" height="150" >
+<img src="nodejs-2.svg" width="150" height="150" >
+
+# Currently learning
+
+
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
