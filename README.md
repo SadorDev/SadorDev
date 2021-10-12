@@ -16,7 +16,7 @@
 <img src="html.svg" height="50" > <img src="css.svg" height="50" > <img src="js.svg" height="50" > <img src="python-5 (1).svg" height="50" > 
 
 <!-- Frameworks, Platforms & Libaries -->
-<img src="react-1.svg" height="50" ><img src="nodejs.svg" height="50" ><img src="python.svg" height="50" >
+<img src="react-1.svg" height="50" ><img src="nodejs.svg" height="50" >
 <img src="flask.svg" height="50" ><img src="express.svg" height="50" ><img src="bootstrap.svg" height="50" >
 
 <!-- Databases -->
