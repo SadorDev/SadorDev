@@ -12,10 +12,8 @@
 
 # 🧰 **TechStack** 💻
 
-<img src="js-brands.svg" height="50" > 
-<img src="react-brands (1).svg" height="50" >
-<img src="nodejs-2.svg" height="50" >
-<img src="python-5.svg" height="50" >
+<img src="js-brands.svg" height="50" > <img src="react-brands (1).svg" height="50" > <img src="nodejs-2.svg" height="50" > <img src="python-5.svg" height="50" >
+<img src="js-brands.svg" height="50" > <img src="react-brands (1).svg" height="50" > <img src="nodejs-2.svg" height="50" > <img src="python-5.svg" height="50" >
 
 # Currently learning
 
