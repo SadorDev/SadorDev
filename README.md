@@ -7,15 +7,24 @@
 
 - 💡 Currently learning the MERN Stack
 
-# Contact            
+# Contact 📝            
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/sador-zerezghi/)
 
 # 🧰 **TechStack** 💻
 
-<img src="js-brands.svg" height="50" > <img src="react-brands (1).svg" height="50" > <img src="nodejs-2.svg" height="50" > <img src="python-5.svg" height="50" >
-<img src="js-brands.svg" height="50" > <img src="react-brands (1).svg" height="50" > <img src="nodejs-2.svg" height="50" > <img src="python-5.svg" height="50" >
+<!-- Languages -->
+<img src="html.svg" height="50" > <img src="css.svg" height="50" > <img src="js-brands.svg" height="50" > <img src="python-brands.svg" height="50" > 
 
-# Currently learning
+<!-- Frameworks, Platforms & Libaries -->
+<img src="react.svg" height="50" ><img src="nodejs.svg" height="50" ><img src="python.svg" height="50" >
+<img src="flask.svg" height="50" ><img src="express.svg" height="50" ><img src="bootstrap.svg" height="50" >
+
+<!-- Databases -->
+<img src="mongo-db.svg" height="50" > <img src="mysql.svg" height="50" > 
+
+<!-- Hosting -->
+<img src="heroku.svg" height="50" > 
+
 
 
 
@@ -36,6 +45,8 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ![Sador's GitHub stats](https://github-readme-stats.vercel.app/api?username=IzzySoprano&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IzzySoprano&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
  <img align="right" width="250" height="250" alt="MewTwo" src="Mewtwo.gif" />
 
 
