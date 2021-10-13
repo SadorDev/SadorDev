@@ -3,9 +3,11 @@
  # About Me 🧑🏾
  <img align="right" alt="Akuma" width="250" height="300px" src=Akuma.gif />
 
-- 👨🏾‍🎓 Full Stack Development Student @ Code Institute
+- 👨🏾‍🎓 Full Stack Development Student
 
 - 💡 Currently learning the MERN Stack
+
+- 
 
 # Contact 📝            
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/sador-zerezghi/)
@@ -13,17 +15,17 @@
 # 🧰 **TechStack** 💻
 
 <!-- Languages -->
-<img src="html.svg" height="50" > <img src="css.svg" height="50" > <img src="js.svg" height="50" > <img src="python-5 (1).svg" height="50" > 
+<img src="images/html.svg" height="100" > <img src="images/css.svg" height="100" > <img src="images/js.svg" height="100" > <img src="images/python.svg" height="100" > 
 
 <!-- Frameworks, Platforms & Libaries -->
-<img src="react-1.svg" height="50" ><img src="nodejs.svg" height="50" >
-<img src="flask (1).svg" height="50" ><img src="express-109 (1).svg" height="50" ><img src="bootstrap.svg" height="50" >
+<img src="images/react.svg" height="100" ><img src="images/nodejs.svg" height="100" >
+<img src="images/flask.svg" height="100" ><img src="images/express.svg" height="100" ><img src="images/bootstrap.svg" height="100" >
 
 <!-- Databases -->
-<img src="mongo-db.svg" height="50" > <img src="mysql.svg" height="50" > 
+<img src="images/mongo-db.svg" height="100" > <img src="images/mysql.svg" height="100" > 
 
 <!-- Hosting -->
-<img src="heroku.svg" height="50" > 
+<img src="heroku.svg" height="100" > 
 <img align="right" width="250" height="250" alt="MewTwo" src="Mewtwo.gif" />
 
 <!--![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
