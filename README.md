@@ -1,13 +1,12 @@
 ![Header](banner.png)
 
  # About Me 🧑🏾
- <img align="right" alt="Akuma" width="250" height="300px" src=Akuma.gif />
+ <img align="right" alt="Akuma" width="250" height="300px" src="Akuma.gif" />
 
 - 👨🏾‍🎓 Full Stack Development Student
 
 - 💡 Currently learning the MERN Stack
 
-- 
 
 # Contact 📝            
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/sador-zerezghi/)
@@ -25,7 +24,7 @@
 <img src="images/mongo-db.svg" height="100" > <img src="images/mysql.svg" height="100" > 
 
 <!-- Hosting -->
-<img src="heroku.svg" height="100" > 
+<img src="images/heroku.svg" height="100" > 
 <img align="right" width="250" height="250" alt="MewTwo" src="Mewtwo.gif" />
 
 <!--![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
