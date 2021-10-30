@@ -25,7 +25,7 @@
 
 <!-- Hosting -->
 <img src="images/heroku.svg" height="100" > 
-<img align="right" width="250" height="250" alt="MewTwo" src="Mewtwo.gif" />
+<img align="right" width="100" height="100" alt="MewTwo" src="Mewtwo.gif" />
 
 <!--![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
