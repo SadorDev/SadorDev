@@ -14,18 +14,18 @@
 # 🧰 **TechStack** 💻
 
 <!-- Languages -->
-<img src="images/html.svg" height="100" > <img src="images/css.svg" height="100" > <img src="images/js.svg" height="100" > <img src="images/python.svg" height="100" > 
+<img src="images/html.svg" height="50" > <img src="images/css.svg" height="50" > <img src="images/js.svg" height="50" > <img src="images/python.svg" height="50" > 
 
 <!-- Frameworks, Platforms & Libaries -->
-<img src="images/react.svg" height="100" ><img src="images/nodejs.svg" height="100" >
-<img src="images/flask.svg" height="100" ><img src="images/express.svg" height="100" ><img src="images/bootstrap.svg" height="100" >
+<img src="images/react.svg" height="50" ><img src="images/nodejs.svg" height="50" >
+<img src="images/flask.svg" height="50" ><img src="images/express.svg" height="50" ><img src="images/bootstrap.svg" height="50" >
 
 <!-- Databases -->
-<img src="images/mongo-db.svg" height="100" > <img src="images/mysql.svg" height="100" > 
+<img src="images/mongo-db.svg" height="50" > <img src="images/mysql.svg" height="50" > 
 
 <!-- Hosting -->
-<img src="images/heroku.svg" height="100" > 
-<img align="right" width="100" height="100" alt="MewTwo" src="Mewtwo.gif" />
+<img src="images/heroku.svg" height="50" > 
+<img align="right" width="50" height="50" alt="MewTwo" src="Mewtwo.gif" />
 
 <!--![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
