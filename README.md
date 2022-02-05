@@ -5,8 +5,6 @@
 
 - 👨🏾‍🎓 Full Stack Development Student
 
-- 💡 Currently learning the MERN Stack
-
 
 # Contact 📝            
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/sador-zerezghi/)
