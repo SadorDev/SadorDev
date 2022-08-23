@@ -21,5 +21,5 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-![Sador's GitHub stats](https://github-readme-stats.vercel.app/api?username=IzzySoprano&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IzzySoprano&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+![Sador's GitHub stats](https://github-readme-stats.vercel.app/api?username=SadorDev&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadorDev&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
