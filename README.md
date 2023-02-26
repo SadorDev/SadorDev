@@ -6,9 +6,13 @@
 
 # About Me
 
-- Currently focusing on HTML5, C55/
-- I am a night owl as I currently work nights🦉
-- I 
+- I am an aspiring self-taught front-end developer who is currently focusing on my core frontend skills. I have been using Frontend Mentor to build and complete the challnges set and I throughly enjoy doing so. I aspire to be a lead frontend developer as I enjoy building web apps with a good UI/UX design
+
+- I currently work nights as a Night Receptionist so I would regard myself a night owl🦉
+
+- Away from web development, I enjoy playing Street Fighter and competing in tournaments
+
+- I speak Tigrinya as my parents are from Eritrea🌍😄
 
 <br />
 
