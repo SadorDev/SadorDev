@@ -28,5 +28,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/sador-zerezghi/)
 
 <a href="mailto:zerezghi@live.co.uk">
-<img src="images/outlook-icon.svg" >
+<img width="25px" src="images/outlook-icon.svg" >
 <a/>
