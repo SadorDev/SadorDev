@@ -10,9 +10,7 @@
 
 - I currently work nights as a Night Receptionist so I would regard myself a night owl🦉
 
-- Away from web development, I enjoy playing Street Fighter and competing in tournaments
-
-- I speak Tigrinya as my parents are from Eritrea🌍😄
+- Away from web development, I enjoy playing Street Fighter 
 
 <br />
 
