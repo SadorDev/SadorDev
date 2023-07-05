@@ -10,9 +10,7 @@
 
 - I currently work nights as a Night Receptionist so I would regard myself a night owl🦉
 
-- Away from web development, I enjoy playing Street Fighter 
-
-<br />
+- Away from web development, I enjoy playing Street Fighter and Akuma is my favorite character
 
 # **TechStack** 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
