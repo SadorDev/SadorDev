@@ -13,10 +13,3 @@
 
 ![Sador's GitHub stats](https://github-readme-stats.vercel.app/api?username=SadorDev&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadorDev&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
-# Connect with me       
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/sador-zerezghi/)
-
-<a href="mailto:zerezghi@live.co.uk">
-<img width="25px" src="images/outlook-icon.svg" >
-<a/>
